@@ -1,0 +1,194 @@
+[
+  {
+    "topic_id": "isro",
+    "topic_name": "Indian Space Research Organisation (ISRO)",
+    "category": "Science and Technology",
+    "aliases": [
+      "isro",
+      "indian space research organisation",
+      "satellite launch",
+      "space mission",
+      "pslv",
+      "gslv"
+    ],
+    "keywords": [
+      "launch",
+      "satellite",
+      "rocket",
+      "orbit",
+      "space",
+      "mission",
+      "payload",
+      "moon",
+      "chandrayaan",
+      "gaganyaan"
+    ],
+    "facts": [
+      { "key": "Founded", "value": "1969" },
+      { "key": "Headquarters", "value": "Bengaluru, Karnataka" },
+      { "key": "Chairman", "value": "Dr. V. Narayanan" },
+      { "key": "Parent Ministry", "value": "Department of Space, Government of India" }
+    ]
+  },
+  {
+    "topic_id": "rbi",
+    "topic_name": "Reserve Bank of India (RBI)",
+    "category": "Economy",
+    "aliases": [
+      "rbi",
+      "reserve bank of india",
+      "monetary policy committee",
+      "repo rate"
+    ],
+    "keywords": [
+      "inflation",
+      "liquidity",
+      "repo rate",
+      "banking",
+      "monetary policy",
+      "interest rate",
+      "financial stability"
+    ],
+    "facts": [
+      { "key": "Established", "value": "1935" },
+      { "key": "Headquarters", "value": "Mumbai" },
+      { "key": "Governor", "value": "Shaktikanta Das" },
+      { "key": "Function", "value": "India's central bank and monetary authority" }
+    ]
+  },
+  {
+    "topic_id": "niti_aayog",
+    "topic_name": "NITI Aayog",
+    "category": "Polity and Governance",
+    "aliases": [
+      "niti aayog",
+      "national institution for transforming india"
+    ],
+    "keywords": [
+      "policy think tank",
+      "governance",
+      "sdg",
+      "cooperative federalism",
+      "aspirational districts"
+    ],
+    "facts": [
+      { "key": "Established", "value": "2015" },
+      { "key": "Headquarters", "value": "New Delhi" },
+      { "key": "Chairperson", "value": "Prime Minister of India (ex-officio)" },
+      { "key": "Vice Chairperson", "value": "Appointed by Government of India" }
+    ]
+  },
+  {
+    "topic_id": "election_commission_india",
+    "topic_name": "Election Commission of India",
+    "category": "Polity and Constitution",
+    "aliases": [
+      "eci",
+      "election commission",
+      "chief election commissioner"
+    ],
+    "keywords": [
+      "election",
+      "voter",
+      "poll",
+      "model code of conduct",
+      "constituency",
+      "ballot"
+    ],
+    "facts": [
+      { "key": "Constitutional Basis", "value": "Article 324" },
+      { "key": "Nature", "value": "Autonomous constitutional authority" },
+      { "key": "Headquarters", "value": "New Delhi" }
+    ]
+  },
+  {
+    "topic_id": "supreme_court_india",
+    "topic_name": "Supreme Court of India",
+    "category": "Polity and Judiciary",
+    "aliases": [
+      "supreme court",
+      "sc of india",
+      "constitutional bench"
+    ],
+    "keywords": [
+      "judgment",
+      "verdict",
+      "constitutional",
+      "article 32",
+      "fundamental rights",
+      "bench"
+    ],
+    "facts": [
+      { "key": "Established", "value": "1950" },
+      { "key": "Seat", "value": "New Delhi" },
+      { "key": "Role", "value": "Highest constitutional court in India" }
+    ]
+  },
+  {
+    "topic_id": "unfccc",
+    "topic_name": "United Nations Framework Convention on Climate Change (UNFCCC)",
+    "category": "Environment and International Relations",
+    "aliases": [
+      "unfccc",
+      "cop summit",
+      "climate convention"
+    ],
+    "keywords": [
+      "climate",
+      "cop",
+      "emissions",
+      "mitigation",
+      "adaptation",
+      "paris agreement",
+      "carbon"
+    ],
+    "facts": [
+      { "key": "Adopted", "value": "1992" },
+      { "key": "Secretariat", "value": "Bonn, Germany" },
+      { "key": "Goal", "value": "Stabilize greenhouse gas concentrations" }
+    ]
+  },
+  {
+    "topic_id": "imf",
+    "topic_name": "International Monetary Fund (IMF)",
+    "category": "Economy and International Institutions",
+    "aliases": [
+      "imf",
+      "international monetary fund"
+    ],
+    "keywords": [
+      "global growth",
+      "fiscal",
+      "balance of payments",
+      "special drawing rights",
+      "macroeconomic"
+    ],
+    "facts": [
+      { "key": "Founded", "value": "1944" },
+      { "key": "Headquarters", "value": "Washington, D.C." },
+      { "key": "Core Mandate", "value": "Global monetary cooperation and financial stability" }
+    ]
+  },
+  {
+    "topic_id": "national_education_policy",
+    "topic_name": "National Education Policy (NEP 2020)",
+    "category": "Education and Governance",
+    "aliases": [
+      "nep",
+      "national education policy",
+      "nep 2020"
+    ],
+    "keywords": [
+      "school education",
+      "higher education",
+      "multidisciplinary",
+      "foundational literacy",
+      "education reform"
+    ],
+    "facts": [
+      { "key": "Year", "value": "2020" },
+      { "key": "Core Focus", "value": "Holistic, multidisciplinary, flexible education" },
+      { "key": "Target", "value": "Foundational literacy and numeracy" }
+    ]
+  }
+]
